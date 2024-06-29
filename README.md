@@ -33,7 +33,7 @@ A good data source is ROCCC which stands for Reliable, Original, Comprehensive, 
 
 ## Process 
 
-I used RStudio to conduct my analysis due to the efficiency and accessibility of the program, huge amount of data and being able to create the visualisations.
+I used RStudio to conduct my analysis due to the efficiency and accessibility of the program,its ability to handle huge amount of data and being able to create the visualisations.
 
 ### 1.Installing packages and library 
 
